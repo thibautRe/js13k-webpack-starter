@@ -1,9 +1,14 @@
 {
-  "name": "js13k-setup",
+  "name": "js13k-thibautre",
   "private": true,
+  "author": {
+    "email": "thibaut@thibaut.re",
+    "name": "Thibaut Remy"
+  },
+  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --progress",
-    "build": "webpack -p --progress",
+    "build": "NODE_ENV=production webpack -p --progress",
     "postbuild": "node postbuild.js"
   },
   "devDependencies": {
