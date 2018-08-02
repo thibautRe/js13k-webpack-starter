@@ -1,6 +1,6 @@
 # js13k Webpack Starter
 
-This webpack starter is based on **[@sz-piotr](/sz-piotr/js13k-webpack-starter)**'s webpack starter. It provides a webpack-based foundation for optimized game development for the Game Jam [js13k](//js13kgames.com/).
+This webpack starter is based on **[@sz-piotr](//github.com/sz-piotr/js13k-webpack-starter)**'s webpack starter. It provides a webpack-based foundation for optimized game development for the Game Jam [js13k](//js13kgames.com/).
 
 The base size of the empty application is **`594`** bytes (4% of the allowed size).
 
